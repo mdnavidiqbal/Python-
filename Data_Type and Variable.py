@@ -12,3 +12,15 @@ print(roll_list)
 friend_list=["Navid","Iqbal","Turzo"]
 print(friend_list)
 """
+"""
+# Bolean Data_Type 
+var = True 
+print(var)
+"""
+"""
+# Float data type 
+num1= 3.5
+num2= 2.3
+sum = num1 + num2
+print(sum)
+"""
