@@ -14,7 +14,7 @@ print(f+b)
 print(type(f+b))
 """
 # If we divide anry type/any type they provide a float number any type/any type -> float
-x=5
-y=6
-print(x/y)
-print(type(x/y))
+#x=5
+#y=6
+#print(x/y)
+#print(type(x/y))
